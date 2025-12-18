@@ -110,13 +110,33 @@ export const resumeData = {
       ]
     },
     {
-      title: "Chat Application with Video Calling",
-      tech: "React, WebRTC, Socket.io, Node.js",
+      title: "Chat Application",
+      tech: "React, Socket.io, Node.js",
       year: "2024",
       points: [
-        "Implemented real-time messaging and video calling features using WebRTC and Socket.io.",
-        "Enabled peer-to-peer video connection with fallback to TURN servers for reliability.",
-        "Features include group chats, file sharing, and online status indicators."
+        "Implemented real-time messaging features using Socket.io and Node.js for low-latency communication.",
+        "Features include group chats, file sharing, and online status indicators.",
+        "Designed a responsive UI with message history and typing indicators."
+      ]
+    },
+    {
+      title: "Vendor Performance Data Quality Dashboard",
+      tech: "SQL, Python, Power BI",
+      year: "2024",
+      points: [
+        "Created a vendor performance dashboard consolidating 5+ data sources to assess profitability, growth, and quality metrics.",
+        "Automated Python-driven data quality checks to flag missing or inconsistent entries, improving accuracy by 25%.",
+        "Generated insights that revealed 12% underperforming vendors, supporting strategic procurement decisions."
+      ]
+    },
+    {
+      title: "AI-Powered Portfolio Optimizer",
+      tech: "Python, Reinforcement Learning",
+      year: "2024",
+      points: [
+        "Developed RL-based models for portfolio allocation using volatility, momentum, and risk indicators across multiple asset classes.",
+        "Backtested strategies via yfinance, yielding 8–12% higher risk-adjusted returns compared to benchmarks.",
+        "Built a modular ML pipeline enabling automated hyperparameter tuning and scheduled model retraining."
       ]
     }
   ],
