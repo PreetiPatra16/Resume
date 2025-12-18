@@ -31,6 +31,3 @@ The application is intentionally lightweight, content-driven, and optimized for 
 - **Hosting Platform:** GitHub Pages
 - **Version Control:** Git, GitHub
 
----
-
-## Repository Structure
