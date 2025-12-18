@@ -69,7 +69,7 @@ export const resumeData = {
         "Designed interactive dashboards tracking 8+ KPIs such as loan-to-deposit ratio, churn rate, and customer segmentation."
       ]
     },
-     {
+    {
       title: "Smart Safety Helmet & Automated Test Tube Holder",
       tech: "Arduino, MQ-2, MPU6050, IR sensors",
       year: "2023",
@@ -77,6 +77,46 @@ export const resumeData = {
         "Built an IoT-enabled safety system with Arduino, MQ-2, MPU6050, and IR sensors, improving lab safety by 50%.",
         "Integrated real-time gas, motion, and impact detection modules with automated emergency alerts under 2 seconds.",
         "Prototyped a low-cost solution with 95% accuracy in environmental hazard detection for lab and industrial use."
+      ]
+    },
+    {
+      title: "Car Rental Website",
+      tech: "React, Node.js, MongolDB, Stripe API",
+      year: "2024",
+      points: [
+        "Developed a full-stack car rental platform allowing users to browse, search, and book vehicles with real-time availability.",
+        "Integrated Stripe API for secure payment processing and MongoDB for managing a diverse fleet inventory.",
+        "Implemented user authentication and admin dashboard for booking management."
+      ]
+    },
+    {
+      title: "AI Chatbot",
+      tech: "Python, OpenAI API, Flask, React",
+      year: "2024",
+      points: [
+        "Built an intelligent chatbot using OpenAI's GPT models to derive answers from custom knowledge bases.",
+        "Developed a Flask backend to handle API requests and manage conversation state.",
+        "created a responsive React frontend with typing indicators and chat history."
+      ]
+    },
+    {
+      title: "Todo List Application",
+      tech: "React, LocalStorage",
+      year: "2023",
+      points: [
+        "Created a persistent todo list app with features like drag-and-drop reordering and category filtering.",
+        "Utilized LocalStorage to save user data across sessions without a backend.",
+        "Designed a clean, minimalist UI with dark mode support."
+      ]
+    },
+    {
+      title: "Chat Application with Video Calling",
+      tech: "React, WebRTC, Socket.io, Node.js",
+      year: "2024",
+      points: [
+        "Implemented real-time messaging and video calling features using WebRTC and Socket.io.",
+        "Enabled peer-to-peer video connection with fallback to TURN servers for reliability.",
+        "Features include group chats, file sharing, and online status indicators."
       ]
     }
   ],
