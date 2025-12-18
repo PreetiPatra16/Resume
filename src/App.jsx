@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import Skills from './components/Skills';
 import Experience from './components/Experience';
+import Projects from './components/Projects';
 
 import Education from './components/Education';
 import Footer from './components/Footer';
@@ -13,6 +14,7 @@ function App() {
       <Header data={resumeData.personalInfo} />
       <Skills data={resumeData.skills} />
       <Experience data={resumeData.experience} />
+      <Projects data={resumeData.projects} />
 
       <Education education={resumeData.education} certifications={resumeData.certifications} />
       <div style={{ marginTop: '2rem' }}>
