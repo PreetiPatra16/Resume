@@ -52,7 +52,7 @@ export const resumeData = {
     {
       title: "AI Video Sort Generator",
       tech: "Next.js, React, TailwindCSS, AI, Clerk, Neon",
-      year: "2024",
+      year: "2025",
       points: [
         "Engineered an AI-powered video sorting platform that classifies 200+ videos, reducing manual effort by 65%.",
         "Integrated Clerk authentication and Neon serverless PostgreSQL backend, supporting 10k+ metadata queries.",
@@ -62,7 +62,7 @@ export const resumeData = {
     {
       title: "End-to-End Data Analytics Project — Banking Domain",
       tech: "MySQL, Power BI",
-      year: "2024",
+      year: "2025",
       points: [
         "Developed a data analytics pipeline processing 100k+ records using MySQL and Power BI for trend and fraud detection.",
         "Performed cleaning, transformation, and visualization to derive insights that improved reporting accuracy by 30%.",
@@ -102,7 +102,7 @@ export const resumeData = {
     {
       title: "Todo List Application",
       tech: "React, LocalStorage",
-      year: "2023",
+      year: "2024",
       points: [
         "Created a persistent todo list app with features like drag-and-drop reordering and category filtering.",
         "Utilized LocalStorage to save user data across sessions without a backend.",
@@ -122,7 +122,7 @@ export const resumeData = {
     {
       title: "Vendor Performance Data Quality Dashboard",
       tech: "SQL, Python, Power BI",
-      year: "2024",
+      year: "2025",
       points: [
         "Created a vendor performance dashboard consolidating 5+ data sources to assess profitability, growth, and quality metrics.",
         "Automated Python-driven data quality checks to flag missing or inconsistent entries, improving accuracy by 25%.",
@@ -132,7 +132,7 @@ export const resumeData = {
     {
       title: "AI-Powered Portfolio Optimizer",
       tech: "Python, Reinforcement Learning",
-      year: "2024",
+      year: "2025",
       points: [
         "Developed RL-based models for portfolio allocation using volatility, momentum, and risk indicators across multiple asset classes.",
         "Backtested strategies via yfinance, yielding 8–12% higher risk-adjusted returns compared to benchmarks.",
