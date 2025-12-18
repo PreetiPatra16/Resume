@@ -1,6 +1,7 @@
 {
   "name": "hello-code",
   "private": true,
+  "homepage": "https://PreetiPatra16.github.io/Resume",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
