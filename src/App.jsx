@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import Skills from './components/Skills';
 import Experience from './components/Experience';
-import Projects from './components/Projects';
+
 import Education from './components/Education';
 import Footer from './components/Footer';
 import { resumeData } from './data/resumeData';
@@ -13,7 +13,7 @@ function App() {
       <Header data={resumeData.personalInfo} />
       <Skills data={resumeData.skills} />
       <Experience data={resumeData.experience} />
-      <Projects data={resumeData.projects} />
+
       <Education education={resumeData.education} certifications={resumeData.certifications} />
       <div style={{ marginTop: '2rem' }}>
         <h2 style={{ fontSize: '1.5rem', marginBottom: '1rem', borderBottom: '2px solid var(--accent-color)', display: 'inline-block' }}>Positions of Responsibility</h2>
