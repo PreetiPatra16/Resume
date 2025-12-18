@@ -1,23 +1,36 @@
-# Portfolio - Preeti Chanda Patra
+# Resume Showcase Website
 
-This is a React-based personal portfolio website serving as a digital resume.
+A professionally structured **React-based resume website** designed to present my academic background, technical skills, and experience in a clear, web-accessible format.  
+This repository focuses on **resume visibility and presentation**, leveraging modern frontend practices and GitHub Pages for reliable static hosting.
 
-## Live Demo
-Check out the live version here: **[https://PreetiPatra16.github.io/Resume](https://PreetiPatra16.github.io/Resume)**
+🌐 **Live Resume URL**  
+https://preetipatra16.github.io/Resume
 
-## Tech Stack
-- **React** (Vite)
-- **Vanilla CSS** (Variables for theming)
-- **Framer Motion** (Animations)
-- **Lucide React** (Icons)
+---
 
-## Development
-1. Clone the repo
-2. Run `npm install`
-3. Run `npm run dev`
+## Overview
+This project serves as a **digital representation of my resume**, enabling easy sharing and consistent presentation across platforms.  
+The application is intentionally lightweight, content-driven, and optimized for readability rather than portfolio-style showcasing.
 
-## Deployment
-This project is configured to automatically deploy to GitHub Pages via GitHub Actions.
-Any push to the `main` branch triggers a build and deploy.
+---
 
-Ensure your **Settings > Pages > Build and deployment > Source** is set to **GitHub Actions**.
+## Key Highlights
+- Structured resume layout with modular React components
+- Centralized data management for easy content updates
+- Responsive design ensuring cross-device compatibility
+- Static site generation and deployment via GitHub Pages
+- Clean build pipeline using `gh-pages`
+
+---
+
+## Technology Stack
+- **Frontend Framework:** React
+- **Programming Language:** JavaScript (ES6+)
+- **Markup & Styling:** HTML5, CSS3
+- **Build & Deployment:** npm, gh-pages
+- **Hosting Platform:** GitHub Pages
+- **Version Control:** Git, GitHub
+
+---
+
+## Repository Structure
